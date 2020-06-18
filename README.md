@@ -1,5 +1,6 @@
 ## Dust
-Modelling desert dust exposure in epidemiological studies for the short-term health effects.
+R script files for modelling desert dust exposure in epidemiological studies for the short-term health effects.
+
 ---
 
 ### Workshop_ISEE2019 
@@ -13,6 +14,7 @@ Includes the files used for the pre-conference workshop **Modelling dessert dust
     * In **Line 70 the USers can change the parameters and variables for the adjustmend of the base line time-series regression model adjusted for time-trend and temperature.
 
 * The file **isee2019.dust** includes de code to replicate step-by-step the examples in the slides.
+
 ---
 
 ### Epidemiology_2020
