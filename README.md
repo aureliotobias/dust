@@ -11,7 +11,7 @@ Includes the files used for the pre-conference workshop **Modelling dessert dust
     * In **Line 29** the dataset name must be replaced by the Users. Unfortunately, due to confidentiality isuse with mortality data we are not able to distribute the example dataset. However, we are working in a simulated dataset which will be uploades shortly.
     * In **Lines 31-39** there is description of the variable names. The Users must use the same names in their own dataset for the **date**, the dust exposures (variables **dust, pm10, pm10natural, pm10local**), and the temperature (variable **temp**). 
     * In **Line 52** the Users must define tthe health outcome in their dataset and in **Lines 55-58** the Users must define the exposure lags of interest for their analysis. 
-    * In **Line 70 the USers can change the parameters and variables for the adjustmend of the base line time-series regression model adjusted for time-trend and temperature.
+    * In **Line 70** the Users can change the parameters and variables for the adjustmend of the base line time-series regression model adjusted for time-trend and temperature.
 
 * The file **dust_isee.R** includes de code to replicate step-by-step the examples in the slides.
 
