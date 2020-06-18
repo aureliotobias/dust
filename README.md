@@ -1,7 +1,7 @@
-# Dust
+## Dust
 Modelling desert dust exposure in epidemiological studies for the short-term health effects.
 
-## Workshop_ISEE2019 
+### Workshop_ISEE2019 
 
 Includes the files used for the pre-conference workshop **Modelling dessert dust exposure events for epidemiological short-term health effects studies** at the **31st Annual Conference of the International Society for Environmental Epidemiology**, Utrecht, The Netherlands.
 
@@ -13,9 +13,6 @@ Includes the files used for the pre-conference workshop **Modelling dessert dust
 
 * The file **isee2019.dust** includes de code to replicate step-by-step the examples in the slides.
 
-##Epidemiology 2020
+### Epidemiology_2020
 
-includes the files used for manuscript submited to Epidemiollogy.
-  
-  
-  
+Includes the files used for manuscript submited to **Epidemiology** (currently under review).
