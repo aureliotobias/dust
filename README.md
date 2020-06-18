@@ -13,7 +13,7 @@ Includes the files used for the pre-conference workshop **Modelling dessert dust
     * In **Line 52** the Users must define tthe health outcome in their dataset and in **Lines 55-58** the Users must define the exposure lags of interest for their analysis. 
     * In **Line 70 the USers can change the parameters and variables for the adjustmend of the base line time-series regression model adjusted for time-trend and temperature.
 
-* The file **isee2019dust.R** includes de code to replicate step-by-step the examples in the slides.
+* The file **dust_isee.R** includes de code to replicate step-by-step the examples in the slides.
 
 ---
 
@@ -21,5 +21,5 @@ Includes the files used for the pre-conference workshop **Modelling dessert dust
 
 Includes the files used for manuscript submited to **Epidemiology** (currently under review).
 
-* The file **epidemiology2020dust.R** includes de code to replicate step-by-step the examples in the manuscript.
+* The file **dust_epidemiol.R** includes de code to replicate step-by-step the examples in the manuscript.
 
