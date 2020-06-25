@@ -19,7 +19,7 @@ Includes the files used for the pre-conference workshop **Modelling dessert dust
 
 #### epidemiology_2020
 
-Includes the files used for manuscript submitted to **Epidemiology** (currently under review).
+Includes the files used for the paper accepted in **Epidemiology**.
 
 * Tobias A, Stafoggia M. Modelling desert dust exposure in epidemiological short-term health effects studies. **Epidemiology** 2020, In Press.
 
