@@ -3,6 +3,16 @@
 
 ---
 
+#### epidemiology_2020
+
+Includes the files used in: **Tobias A, Stafoggia M. Modelling desert dust exposure in epidemiological short-term health effects studies. Epidemiology 2020, In Press.**
+
+* The file **dust_epidemiol_2020.R** includes the **R** code to replicate step-by-step the examples in the manuscript.
+
+* Unfortunately, due to confidentiality issues with mortality data, we are not able to distribute the example dataset. However, we are working in a simulated dataset which will be uploaded shortly.
+   
+---
+
 #### workshop_isee2019 
 
 Includes the files used for the pre-conference workshop **Modelling dessert dust exposure events for epidemiological short-term health effects studies** at the **31st Annual Conference of the International Society for Environmental Epidemiology**, Utrecht, The Netherlands.
@@ -17,14 +27,3 @@ Includes the files used for the pre-conference workshop **Modelling dessert dust
 * The file **00.dust_prepdata.R** is an ancillary file used by **01.allmodels.R** to generate the lagged variables for dust exposures and PM10 and the smooth terms to adjust for temperature.
 
 * Unfortunately, due to confidentiality issues with mortality data, we are not able to distribute the example dataset. However, we are working in a simulated dataset which will be uploaded shortly.
-
----
-
-#### epidemiology_2020
-
-Includes the files used in: **Tobias A, Stafoggia M. Modelling desert dust exposure in epidemiological short-term health effects studies. Epidemiology 2020, In Press.**
-
-* The file **dust_epidemiol_2020.R** includes the **R** code to replicate step-by-step the examples in the manuscript. It uses the ancillary file **00.prepdara.R** is to generate lagged variables and the smooth terms to adjust for temperature.
-
-* Unfortunately, due to confidentiality issues with mortality data, we are not able to distribute the example dataset. However, we are working in a simulated dataset which will be uploaded shortly.
-   
