@@ -24,6 +24,6 @@ Includes the files used for the pre-conference workshop **Modelling dessert dust
     * In **Lines 55-58** the **Users** must set the exposure lag of interest for their analysis. 
     * In **Line 70** the **Users** can change the parameters and variables for the adjustment of the baseline time-series regression model adjusted for time-trend and temperature.
     
-* The file **00.dust_prepdata.R** is an ancillary file used by **01.allmodels.R** to generate the lagged variables for dust exposures and PM10 and the smooth terms to adjust for temperature.
+* The file **00.dust_prepdata.R** is an ancillary file used by **01.dust_models.R** to generate the lagged variables for dust exposures and PM10 and the smooth terms to adjust for temperature.
 
 * Unfortunately, due to confidentiality issues with mortality data, we are not able to distribute the example dataset. However, we are working in a simulated dataset which will be uploaded shortly.
