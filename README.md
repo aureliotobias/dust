@@ -15,7 +15,7 @@ Includes the files used in: **Tobias A, Stafoggia M. Modelling desert dust expos
 
 #### workshop_isee2019 
 
-Includes the files used for the pre-conference workshop **Modelling dessert dust exposure events for epidemiological short-term health effects studies** at the **31st Annual Conference of the International Society for Environmental Epidemiology**, Utrecht, The Netherlands.
+Includes the files used for the pre-conference workshop **Modelling dessert dust exposure events for epidemiological short-term health effects studies** at the **<a href="https://isee2019.org" target="_blank">31st Annual Conference of the International Society for Environmental Epidemiology</a>**, 25-28 Aug 2019, Utrecht, The Netherlands. 
 
 * The file **01.dust_models.R** run all the modelling approaches simultaneously for desert dust exposures using binary and continuous metric.
     * In **Line 29** the dataset name must be replaced by the **Users**. 
