@@ -5,7 +5,7 @@
 
 #### epidemiology_2020
 
-Includes the files used in: **Tobias A, Stafoggia M. Modelling desert dust exposure in epidemiologic short-term health effects studies. Epidemiology 2020;31:788–795**
+Includes the files used in: **Tobias A, Stafoggia M. Modelling desert dust exposure in epidemiologic short-term health effects studies.  <a href="https://journals.lww.com/epidem/Fulltext/2020/11000/Modeling_Desert_Dust_Exposures_in_Epidemiologic.6.aspx" target="_blank">Epidemiology 2020;31:788–795</a>**
 
 * The file **dust_epidemiol_2020.R** includes the **R** code to replicate step-by-step the examples in the manuscript.
 
