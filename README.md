@@ -5,7 +5,7 @@
 
 #### epidemiology_2020
 
-Includes the files used in: Tobías A, Stafoggia M. <a href="https://journals.lww.com/epidem/Fulltext/2020/11000/Modeling_Desert_Dust_Exposures_in_Epidemiologic.6.aspx" target="_blank">Modelling desert dust exposure in epidemiologic short-term health effects studies</a>. **Epidemiology 2020;31:788-795**
+Includes the files used in: Tobías A, Stafoggia M. <a href="https://journals.lww.com/epidem/Fulltext/2020/11000/Modeling_Desert_Dust_Exposures_in_Epidemiologic.6.aspx" target="_blank">Modelling desert dust exposure in epidemiologic short-term health effects studies</a>. Epidemiology 2020;31:788-795
 
 * The file **dust_epidemiol_2020.R** includes the **R** code to replicate step-by-step the examples in the manuscript.
 
@@ -15,7 +15,7 @@ Includes the files used in: Tobías A, Stafoggia M. <a href="https://journals.lw
 
 #### workshop_isee2019 
 
-Includes the files used for the pre-conference workshop **Modelling dessert dust exposure events for epidemiological short-term health effects studies** at the **<a href="https://isee2019.org" target="_blank">31st Annual Conference of the International Society for Environmental Epidemiology</a>**, 25-28 Aug 2019, Utrecht, The Netherlands. 
+Includes the files used for the pre-conference workshop **Modelling dessert dust exposure events for epidemiological short-term health effects studies** at the <a href="https://isee2019.org" target="_blank">31st Annual Conference of the International Society for Environmental Epidemiology</a>, 25-28 Aug 2019, Utrecht, The Netherlands. 
 
 * The file **01.dust_models.R** run all the modelling approaches simultaneously for desert dust exposures using binary and continuous metric.
     * In **Line 29** the dataset name must be replaced by the **Users**. 
